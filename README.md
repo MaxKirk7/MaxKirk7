@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaxKirk7
+- 👀 I’m interested in AI and creating desktop applications
+- 🌱 I’m currently learning Python, JS
+- 📫 How to reach me email 7programmingpractice@gmail.com
